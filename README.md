@@ -45,6 +45,11 @@ Dosya gezginin kendi için de profesyonel bir video oynatıcı uygulaması vard�
 Dosya gezginin kendi için de profesyonel bir foto galeri uygulaması vardır. Fotoğraflarınıza oradan bakar, siler ve ayrıntılarını görebilirsiniz.
 
 </p>
+
+![fatih](https://github.com/user-attachments/assets/eecf97a6-e56c-40db-be18-02572523840c)
+![chmod](https://github.com/user-attachments/assets/3e08b311-9132-498d-8c85-94e425ddf649)
+![chmod2](https://github.com/user-attachments/assets/efcfd469-b341-4e2c-b1de-6841f38e296e)
+
 <img src="https://raw.githubusercontent.com/huso51/Turk_Dosya_Yoneticisi/main/turk_dosya_yoneticisi2.png" />
 <img src="https://raw.githubusercontent.com/huso51/Turk_Dosya_Yoneticisi/main/turk_dosya_yoneticisi1.png" />
 <img src="https://raw.githubusercontent.com/huso51/Turk_Dosya_Yoneticisi/main/19055819_1391975170837734_7010830480438420799_o.jpg" />
