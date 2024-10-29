@@ -49,6 +49,11 @@ Dosya gezginin kendi için de profesyonel bir foto galeri uygulaması vardır. F
 ![fatih](https://github.com/user-attachments/assets/eecf97a6-e56c-40db-be18-02572523840c)
 ![chmod](https://github.com/user-attachments/assets/3e08b311-9132-498d-8c85-94e425ddf649)
 ![chmod2](https://github.com/user-attachments/assets/efcfd469-b341-4e2c-b1de-6841f38e296e)
+![details](https://github.com/user-attachments/assets/66671df5-6172-4e07-b952-e177802338e5)
+![copy](https://github.com/user-attachments/assets/f6c1ce5d-af1e-40db-a4e5-8072d0814bbc)
+![archive](https://github.com/user-attachments/assets/d37e6a96-669d-490c-8962-e164e1e10dc8)
+![zip](https://github.com/user-attachments/assets/01dfec56-b9e4-4c83-aca7-807222522439)
+
 
 <img src="https://raw.githubusercontent.com/huso51/Turk_Dosya_Yoneticisi/main/turk_dosya_yoneticisi2.png" />
 <img src="https://raw.githubusercontent.com/huso51/Turk_Dosya_Yoneticisi/main/turk_dosya_yoneticisi1.png" />
