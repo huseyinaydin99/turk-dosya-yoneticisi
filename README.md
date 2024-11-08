@@ -46,6 +46,10 @@ Dosya gezginin kendi için de profesyonel bir foto galeri uygulaması vardır. F
 
 </p>
 
+![JavaSertification](https://github.com/user-attachments/assets/c1dee189-da88-442c-9c09-48c7d09e4341)
+![AndroidSertification](https://github.com/user-attachments/assets/79ad78e9-d145-4821-bfce-e0f5fd7ccf6d)
+
+
 ![fatih](https://github.com/user-attachments/assets/eecf97a6-e56c-40db-be18-02572523840c)
 ![chmod](https://github.com/user-attachments/assets/3e08b311-9132-498d-8c85-94e425ddf649)
 ![chmod2](https://github.com/user-attachments/assets/efcfd469-b341-4e2c-b1de-6841f38e296e)
