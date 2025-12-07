@@ -1,7 +1,25 @@
-<h4>Türk Dosya Yöneticisi Açıklaması</h4>
-<p>
-Türk yurdu, Türk iktisadı, Türk eliyle, Türk tarihiyle yükselir. Türkler, TÜRK MALI alınız, TÜRK MALI kullanınız; Türk parası Türk toprağında kalsın. Mustafa Kemal Atatürk.
+#### 🇹🇷 Türk Dosya Yöneticisi 🚀
+💡 Yerli Malı, Yerli Güç! Türk yurdu 🇹🇷, Türk eli ✋, Türk tarihi 📜 ile yükselir. TÜRK MALI alınız, TÜRK MALI kullanınız 💰 | Mustafa Kemal Atatürk’in izinde! ✨
 
+- 🛠️ Full Root Yönetim ⚙️: Dahili bellek ve SD kart için kes ✂️, kopyala 📋, yapıştır 📌, taşı 🚚, sil ❌, yeniden adlandır ✏️, detay kontrolü 🔍, dosya paylaşımı 📤, arşivleme 🗂️ ve güçlü dosya yönetimi! Chmod & yetki sistemi 👑 ile Android cihazda tam hakimiyet 💥
+
+- 📱 Tablet Modu: Şık ve ergonomik tasarım 🖼️ ile tabletlerde konforlu kullanım.
+
+- 📡 WiFi Transfer ⚡: İnternet olmadan hızlı dosya aktarma 🌐 | Video 🎬, müzik 🎵, resim 🖼️ ve tüm dosyaları güçlü bir şekilde paylaşın.
+
+- 🔍 Hızlı Dosya Arama: Dahili bellek ve SD kartta 1 saniyede bul 🏎️ | Kategorilere göre göz at: resim, müzik, video, uygulama 🗂️
+
+- 📦 ZIP & RAR Desteği: Dosyaları sıkıştır, şifrele 🔒, aç ve arşivle 🗃️
+
+- 🔐 Güvenli Yönetim: Yerel dosya yönetimi, internet bağlantısı yok 🚫 | Dosya sızıntısı riski sıfır ✅
+
+- 🎵 Müzik Çalar: Profesyonel müzik deneyimi 🎶
+- 🎬 Video Oynatıcı: HD video izleme keyfi 📺
+- 📸 Fotoğraf Galerisi: Fotoğrafları görüntüle, sil ve detayları keşfet 🖼️✨
+
+>💪 Profesyonel, Güvenli ve Hızlı: Android 5 ve eski sürümlerle uyumlu ⚡ | Root özellikli tam kontrol 👑 | Yerli güç 🇹🇷 ile dosyalarınız tamamen sizin elinizde!
+
+```
 Yıkmak insanlara yapmak gibi kıymet mi verir?
 Emin ol onu en çolpa herifler de becerir.
 Sade sen gösteriver “işte budur kubbe” diye,
@@ -10,38 +28,39 @@ Ama gel kaldıralım dendi mi, heyhât, o zaman,
 Bir Süleyman daha lazım yeniden bir de Sinan…
 
 Mehmed Akif Ersoy
+```
 
-● Full kullanım. Root özellikli dosya yöneticisi
+#### ● Full kullanım. Root özellikli dosya yöneticisi
 Bu profesyonel Android root dosya yöneticisi dahili bellek ve hafıza kartı (SD) için kes, kopyala, yapıştır, taşıma, silme, yeniden adlandırma, detay kontrolü, dosya paylaşımları, arşiv, arama ve benzeri gibi özellikler içindir. Tam özellikli dosya yönetimini sağlar.
 
-● Tablet modu.
+#### ● Tablet modu.
 Dosya gezgininin yeni dizayn edilmiş tablet modu tablet cihazlarda daha şık bir görüntü ve rahat kullanımı sağlar.
 
-● WIFI ile güçlü dosya transferi.
+#### ● WIFI ile güçlü dosya transferi.
 Dahili wifi dosya aktarımı ile bu ücretsiz dosya yöneticisi internet bağlantısı olmadan (internetsiz modem bağlantısı) ile başka bir telefona ve bilgisayara dosya aktarmak için wifi'yi kullanır. Dosya türü sınırlaması olmaksızın kullanıcılar, video, müzik, resim vb. dahil herhangi bir dosyayı güçlü bir şekilde aktarabilir.
 
-● Dosya arama.
+#### ● Dosya arama.
 Dosya gezgininin optimize edilmiş arama motoru, dahili bellekte ve SD kartta 1 saniye içinde dosya bulacaktır. Ve kullanıcılar dosyalara kategoriye göre göz atabilir, ör. Resim, müzik, video, uygulamalar ve benzeri gibi.
 
-● ZIP özelliği.
+#### ● ZIP özelliği.
 ZIP özelliği ile dosyalarınızı ZIP arşiv dosyasına ekleyebileceksiniz. Dosyaya şifre koyup iyi sıkıştırıp kullanacaksınız.
 
-● RAR özelliği.
+#### ● RAR özelliği.
 RAR özelliği ile arşiv dosyalarını açabileceksiniz.
 
-● Root yetkisi.
+#### ● Root yetkisi.
 Dosya gezgininin çok güçlü yetkilendirme sistemi ile dosya yetkilerini değiştirip Android cihaza tam hakim olabilirsiniz. Chmod kullanımı size çok şey sağlayacaktır.
 
-● Güvenlik.
+#### ● Güvenlik.
 Bu ücretsiz dosya yöneticisi yerel dosya yönetimi sağlar (internet ile alakası yoktur). Bu nedenle herhangi bir dosya sızıntısı riski yoktur. Dosyalarınız ve bilgileriniz tamamen güvenlidir.
 
-● Müzik çalar.
+#### ● Müzik çalar.
 Dosya gezginin kendi için de profesyonel bir müzik çalar uygulaması vardır. Müziklerinizi oradan güzelce dinlersiniz.
 
-● Video oynatıcı.
+#### ● Video oynatıcı.
 Dosya gezginin kendi için de profesyonel bir video oynatıcı uygulaması vardır. videolarınızı oradan güzelce izlersiniz.
 
-● Fotoğraf galerisi.
+#### ● Fotoğraf galerisi.
 Dosya gezginin kendi için de profesyonel bir foto galeri uygulaması vardır. Fotoğraflarınıza oradan bakar, siler ve ayrıntılarını görebilirsiniz.
 
 </p>
