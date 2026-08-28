@@ -97,3 +97,307 @@ Dosya gezginin kendi için de profesyonel bir foto galeri uygulaması vardır. F
 <img src="https://raw.githubusercontent.com/huso51/Turk_Dosya_Yoneticisi/main/19143946_1391974790837772_6347369580562842047_o.jpg" />
 <img src="https://raw.githubusercontent.com/huso51/Turk_Dosya_Yoneticisi/main/19221585_1391974037504514_7307232215156641894_o.jpg" />
 
+---
+
+# [Türk Dosya Yöneticisi](https://apkpure.com/tr/t%C3%BCrk-dosya-y%C3%B6neticisi/com.huseyinaydin "Türk Dosya Yöneticisi")
+
+**Sürüm 1.4**
+
+* **Boyut:** 3.9 MB
+* **İndirme:** 1K+
+* **Yaş Derecelendirmesi:** Everyone
+* **Güncelleme Tarihi:** 9 Kasım 2016
+
+## 📱 Sürüm 1.4'teki Yenilikler
+
+**9 Kasım 2016**
+
+Türk Dosya Yöneticisi, telefon ve tablet cihazlardaki dosyalarınızı kolayca yönetmenizi sağlar.
+
+### ✨ Yenilikler
+
+* Uygulama logosu yenilendi.
+* Reklamın dosyaların üzerini kapatma sorunu giderildi.
+
+> **Türk Dosya Yöneticisi 1.4**, 9 Kasım 2016 tarihinde Hüseyin AYDIN tarafından yayınlandı. Uygulama indirme boyutu **3.9 MB**'dır.
+
+---
+
+## 📊 Türk Dosya Yöneticisi Sürüm Karşılaştırması
+
+| Özellik               | **Version 1.4**                              | **Version 2.0.2 (Son)**                    |
+| --------------------- | -------------------------------------------- | ------------------------------------------ |
+| **Paket Adı**         | `com.huseyinaydin`                           | `com.huseyinaydin`                         |
+| **Versiyon**          | **1.4**                                      | **2.0.2**                                  |
+| **Güncelleme Tarihi** | **9 Kasım 2016**                             | **2 Ocak 2018**                            |
+| **Boyut**             | **3.9 MB**                                   | **11.1 MB**                                |
+| **Gereken Android**   | **Android 2.3.4+ (Gingerbread MR1, API 10)** | **Android 4.1+ (Jelly Bean, API 16)**      |
+| **Mimari**            | Universal                                    | Universal                                  |
+| **İmza**              | `81f45e22bca0f4082c7f4ecbf45014e31bf9bdb4`   | `81f45e22bca0f4082c7f4ecbf45014e31bf9bdb4` |
+
+---
+
+# [Türk Dosya Yöneticisi](https://apkpure.com/tr/t%C3%BCrk-dosya-y%C3%B6neticisi/com.huseyinaydin "Türk Dosya Yöneticisi")
+
+**Sürüm 1.5**
+
+* **Boyut:** 5.2 MB
+* **İndirme:** 1K+
+* **Yaş Derecelendirmesi:** Everyone
+* **Güncelleme Tarihi:** 13 Kasım 2016
+
+## 📱 Sürüm 1.5'teki Yenilikler
+
+**13 Kasım 2016**
+
+Türk Dosya Yöneticisi, telefon ve tablet cihazlardaki dosyalarınızı kolayca yönetmenizi sağlar.
+
+### ✨ Yenilikler
+
+* Uygulama logosu yenilendi.
+* Reklamın dosyaların üzerini kapatma sorunu giderildi.
+* Başlangıç ekranı eklendi.
+
+> **Türk Dosya Yöneticisi 1.5**, 13 Kasım 2016 tarihinde Hüseyin AYDIN tarafından yayınlandı. Uygulama indirme boyutu **5.2 MB**'dır.
+
+---
+
+## 📊 Türk Dosya Yöneticisi Sürüm Karşılaştırması
+
+| Özellik               | **Version 1.5**                              | **Version 2.0.2 (Son)**                    |
+| --------------------- | -------------------------------------------- | ------------------------------------------ |
+| **Paket Adı**         | `com.huseyinaydin`                           | `com.huseyinaydin`                         |
+| **Versiyon**          | **1.5**                                      | **2.0.2**                                  |
+| **Güncelleme Tarihi** | **13 Kasım 2016**                            | **2 Ocak 2018**                            |
+| **Boyut**             | **5.2 MB**                                   | **11.1 MB**                                |
+| **Gereken Android**   | **Android 2.3.4+ (Gingerbread MR1, API 10)** | **Android 4.1+ (Jelly Bean, API 16)**      |
+| **Mimari**            | Universal                                    | Universal                                  |
+| **İmza**              | `81f45e22bca0f4082c7f4ecbf45014e31bf9bdb4`   | `81f45e22bca0f4082c7f4ecbf45014e31bf9bdb4` |
+
+---
+
+# [Türk Dosya Yöneticisi](https://apkpure.com/tr/t%C3%BCrk-dosya-y%C3%B6neticisi/com.huseyinaydin "Türk Dosya Yöneticisi")
+
+**Sürüm 1.6**
+
+* **Boyut:** 6.0 MB
+* **İndirme:** 1K+
+* **Yaş Derecelendirmesi:** Everyone
+* **Güncelleme Tarihi:** 12 Ocak 2017
+
+## 📱 Sürüm 1.6'da Neler Yeni?
+
+**12 Ocak 2017**
+
+Türk Dosya Yöneticisi, telefon ve tablet cihazlardaki dosyalarınızı kolayca yönetmenizi sağlar.
+
+### ✨ Yenilikler
+
+* Uygulama logosu yenilendi.
+* Reklamın dosyaların üzerini kapatma sorunu giderildi.
+* Başlangıç ekranı eklendi.
+
+> **Türk Dosya Yöneticisi 1.6**, 12 Ocak 2017 tarihinde Hüseyin AYDIN tarafından yayınlandı. Uygulama indirme boyutu **6.0 MB**'dır.
+
+---
+
+## 📊 Türk Dosya Yöneticisi Sürüm Karşılaştırması
+
+| Özellik               | **Version 1.6**                              | **Version 2.0.2 (Son)**                    |
+| --------------------- | -------------------------------------------- | ------------------------------------------ |
+| **Paket Adı**         | `com.huseyinaydin`                           | `com.huseyinaydin`                         |
+| **Versiyon**          | **1.6**                                      | **2.0.2**                                  |
+| **Güncelleme Tarihi** | **12 Ocak 2017**                             | **2 Ocak 2018**                            |
+| **Boyut**             | **6.0 MB**                                   | **11.1 MB**                                |
+| **Gereken Android**   | **Android 2.3.4+ (Gingerbread MR1, API 10)** | **Android 4.1+ (Jelly Bean, API 16)**      |
+| **Mimari**            | Universal                                    | Universal                                  |
+| **İmza**              | `81f45e22bca0f4082c7f4ecbf45014e31bf9bdb4`   | `81f45e22bca0f4082c7f4ecbf45014e31bf9bdb4` |
+
+---
+
+# [Türk Dosya Yöneticisi](https://apkpure.com/tr/t%C3%BCrk-dosya-y%C3%B6neticisi/com.huseyinaydin "Türk Dosya Yöneticisi")
+
+**Sürüm 1.9**
+
+* **Boyut:** 7.0 MB
+* **İndirme:** 1K+
+* **Yaş Derecelendirmesi:** Everyone
+* **Güncelleme Tarihi:** 4 Mart 2017
+
+## 📱 Sürüm 1.9'da Neler Yeni?
+
+**4 Mart 2017**
+
+Türk Dosya Yöneticisi, telefon ve tablet cihazlardaki dosyalarınızı kolayca yönetmenizi sağlar.
+
+### ✨ Yenilikler
+
+* Yenilenen arayüz ile daha modern ve kullanışlı bir deneyim sunuldu.
+* **ZIP** desteği eklendi; dosyalar arşivlenebilir, şifrelenebilir ve ultra sıkıştırılabilir hale getirildi.
+* **RAR** desteği eklendi; RAR dosyaları açılabilir hale getirildi.
+* **Tablet modu** ile tablet cihazlarda daha rahat kullanım sağlandı.
+* **Wi-Fi dosya paylaşımı** ile aynı modeme bağlı bilgisayar veya Android cihazlara hızlı dosya aktarımı sağlandı.
+* **Ağ tarama** özelliği ile ağdaki cihazları görüntüleme imkânı eklendi.
+
+> **Türk Dosya Yöneticisi 1.9**, 4 Mart 2017 tarihinde Hüseyin AYDIN tarafından yayınlandı. Uygulama indirme boyutu **7.0 MB**'dır.
+
+---
+
+## 📊 Türk Dosya Yöneticisi Sürüm Karşılaştırması
+
+| Özellik               | **Version 1.9**                              | **Version 2.0.2 (Son)**                    |
+| --------------------- | -------------------------------------------- | ------------------------------------------ |
+| **Paket Adı**         | `com.huseyinaydin`                           | `com.huseyinaydin`                         |
+| **Versiyon**          | **1.9**                                      | **2.0.2**                                  |
+| **Güncelleme Tarihi** | **4 Mart 2017**                              | **2 Ocak 2018**                            |
+| **Boyut**             | **7.0 MB**                                   | **11.1 MB**                                |
+| **Gereken Android**   | **Android 2.3.4+ (Gingerbread MR1, API 10)** | **Android 4.1+ (Jelly Bean, API 16)**      |
+| **Mimari**            | Universal                                    | Universal                                  |
+| **İmza**              | `81f45e22bca0f4082c7f4ecbf45014e31bf9bdb4`   | `81f45e22bca0f4082c7f4ecbf45014e31bf9bdb4` |
+
+---
+
+# [Türk Dosya Yöneticisi](https://apkpure.com/tr/t%C3%BCrk-dosya-y%C3%B6neticisi/com.huseyinaydin "Türk Dosya Yöneticisi")
+
+**Sürüm 2.0**
+
+* **Boyut:** 11.1 MB
+* **İndirme:** 1K+
+* **Yaş Derecelendirmesi:** Everyone
+* **Güncelleme Tarihi:** 15 Haziran 2017
+
+## 📱 Sürüm 2.0'da Neler Yeni?
+
+**15 Haziran 2017**
+
+Türk Dosya Yöneticisi, telefon ve tablet cihazlardaki dosyalarınızı kolayca yönetmenizi sağlar.
+
+### ✨ Yenilikler
+
+* **Fotoğraf galerisi** eklendi.
+* **Müzik çalar** eklendi.
+* **Video oynatıcı** eklendi.
+* **Wi-Fi Analyzer** ile Wi-Fi sinyallerini analiz etme özelliği eklendi.
+* Uygulama **hızlandırıldı** ve çeşitli hatalar giderildi.
+
+> **Türk Dosya Yöneticisi 2.0**, 15 Haziran 2017 tarihinde Hüseyin AYDIN tarafından yayınlandı. Uygulama indirme boyutu **11.1 MB**'dır.
+
+---
+
+## 📊 Türk Dosya Yöneticisi Sürüm Karşılaştırması
+
+| Özellik               | **Version 2.0**                            | **Version 2.0.2 (Son)**                    |
+| --------------------- | ------------------------------------------ | ------------------------------------------ |
+| **Paket Adı**         | `com.huseyinaydin`                         | `com.huseyinaydin`                         |
+| **Versiyon**          | **2.0**                                    | **2.0.2**                                  |
+| **Güncelleme Tarihi** | **15 Haziran 2017**                        | **2 Ocak 2018**                            |
+| **Boyut**             | **11.1 MB**                                | **11.1 MB**                                |
+| **Gereken Android**   | **Android 4.1+ (Jelly Bean, API 16)**      | **Android 4.1+ (Jelly Bean, API 16)**      |
+| **Mimari**            | Universal                                  | Universal                                  |
+| **İmza**              | `81f45e22bca0f4082c7f4ecbf45014e31bf9bdb4` | `81f45e22bca0f4082c7f4ecbf45014e31bf9bdb4` |
+
+
+---
+
+# [Türk Dosya Yöneticisi](https://apkpure.com/tr/t%C3%BCrk-dosya-y%C3%B6neticisi/com.huseyinaydin "Türk Dosya Yöneticisi")
+
+**Sürüm 2.0.1**
+
+* **Boyut:** 11.1 MB
+* **İndirme:** 1K+
+* **Yaş Derecelendirmesi:** Everyone
+* **Güncelleme Tarihi:** 22 Haziran 2017
+
+## 📱 Sürüm 2.0.1'de Neler Yeni?
+
+**22 Haziran 2017**
+
+Türk Dosya Yöneticisi, telefon ve tablet cihazlardaki dosyalarınızı kolayca yönetmenizi sağlar.
+
+### ✨ Yenilikler
+
+* **Yan ekran sorunu** giderildi.
+
+> **Türk Dosya Yöneticisi 2.0.1**, 22 Haziran 2017 tarihinde Hüseyin AYDIN tarafından yayınlandı. Uygulama indirme boyutu **11.1 MB**'dır.
+
+---
+
+## 📊 Türk Dosya Yöneticisi Sürüm Karşılaştırması
+
+| Özellik               | **Version 2.0.1**                          | **Version 2.0.2 (Son)**                    |
+| --------------------- | ------------------------------------------ | ------------------------------------------ |
+| **Paket Adı**         | `com.huseyinaydin`                         | `com.huseyinaydin`                         |
+| **Versiyon**          | **2.0.1**                                  | **2.0.2**                                  |
+| **Güncelleme Tarihi** | **22 Haziran 2017**                        | **2 Ocak 2018**                            |
+| **Boyut**             | **11.1 MB**                                | **11.1 MB**                                |
+| **Gereken Android**   | **Android 4.1+ (Jelly Bean, API 16)**      | **Android 4.1+ (Jelly Bean, API 16)**      |
+| **Mimari**            | Universal                                  | Universal                                  |
+| **İmza**              | `81f45e22bca0f4082c7f4ecbf45014e31bf9bdb4` | `81f45e22bca0f4082c7f4ecbf45014e31bf9bdb4` |
+
+
+---
+
+# [Türk Dosya Yöneticisi](https://apkpure.com/tr/t%C3%BCrk-dosya-y%C3%B6neticisi/com.huseyinaydin "Türk Dosya Yöneticisi")
+
+**Sürüm 2.0.2 — Son Sürüm**
+
+* **Boyut:** 11.1 MB
+* **İndirme:** 1K+
+* **Yaş Derecelendirmesi:** Everyone
+* **Güncelleme Tarihi:** 2 Ocak 2018
+
+## 📱 Sürüm 2.0.2'de Neler Yeni?
+
+**2 Ocak 2018**
+
+Türk Dosya Yöneticisi, telefon ve tablet cihazlardaki dosyalarınızı kolayca yönetmenizi sağlar.
+
+### ✨ Yenilikler
+
+* Hatalar giderildi.
+* Uygulama hızlandırıldı.
+* ⚠️ **Not:** Android 7 ve üzerindeki SD kart erişim hatası giderilmedi.
+
+> **Türk Dosya Yöneticisi 2.0.2**, 2 Ocak 2018 tarihinde Hüseyin AYDIN tarafından yayınlandı. Uygulama indirme boyutu **11.1 MB**'dır.
+
+---
+
+## 📋 Türk Dosya Yöneticisi Hakkında
+
+### 💾 Ne kadar depolama alanı gerekir?
+
+İndirilecek APK dosyasının boyutu **11.1 MB**'dır. Uygulamanın kurulumu, geçici dosyalar, güncellemeler ve önbellek verileri için ek boş alan gerekebilir.
+
+### 📥 Ne kadar sürede indirilir?
+
+İndirme süresi internet bağlantınızın hızına bağlıdır. Sabit bir 4G, 5G veya Wi-Fi bağlantısında birkaç saniye ile birkaç dakika arasında sürebilir.
+
+### ❓ Neden indiremiyor veya yükleyemiyorum?
+
+Yetersiz depolama alanı, uyumsuz Android sürümü, kararsız internet bağlantısı, bozuk APK dosyası veya eksik yükleme izinleri yaygın nedenlerdir.
+
+### 📱 Sistem gereksinimleri nelerdir?
+
+Türk Dosya Yöneticisi 2.0.2, **Android 4.1+ (Jelly Bean, API 16)** veya sonraki bir sürümü gerektirir.
+
+### 📦 APK ve XAPK nedir?
+
+* **APK:** Doğrudan indirilip yüklenebilen standart Android uygulama paketidir.
+* **XAPK:** APK'nın yanı sıra OBB gibi ek kaynak dosyalarını da içerebilen paket formatıdır.
+
+---
+
+## ℹ️ Daha Fazla Uygulama Bilgisi
+
+| Özellik                     | Bilgi                                      |
+| --------------------------- | ------------------------------------------ |
+| **Paket Adı**               | `com.huseyinaydin`                         |
+| **Versiyon**                | **2.0.2**                                  |
+| **Güncelleme Tarihi**       | **2 Ocak 2018**                            |
+| **Boyut**                   | **11.1 MB**                                |
+| **Diller**                  | English + 70 dil                           |
+| **Gereken Android**         | **Android 4.1+ (Jelly Bean, API 16)**      |
+| **İçerik Derecelendirmesi** | Everyone                                   |
+| **Mimari**                  | Universal                                  |
+| **Uygulama İzinleri**       | 18                                         |
+| **İmza**                    | `81f45e22bca0f4082c7f4ecbf45014e31bf9bdb4` |
